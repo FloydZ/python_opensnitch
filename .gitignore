@@ -1,0 +1,4 @@
+.cache/
+.local-history/
+__pycache__
+deps/opensnitch/
